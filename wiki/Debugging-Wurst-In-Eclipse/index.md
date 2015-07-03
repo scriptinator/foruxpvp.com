@@ -11,7 +11,7 @@
 
 ## Definitions:
 
-### Get-Download
+### Get- Download
 
 ### Eclipse- A program for developing
 
@@ -65,7 +65,8 @@
 5. Here is a patch tutorial courtesy of Nitrogeon-Dioxide:
    https://cloud.githubusercontent.com/assets/11248300/8185475/0e31fda2-141b-11e5-97b4-4425c5b8c90d.png
    https://cloud.githubusercontent.com/assets/11248300/8185477/0ec3f6e4-141b-11e5-91bf-f5e728546b34.png
-   For this step choose "File" for Patch and click "Browse." Then navigate to your-wurst-folder/patch. Then click      the file called "minecraft.patch" then click "Open"
+   For this step choose "File" for Patch and click "Browse." Then navigate to your-wurst-folder/patch. Then click
+the file called "minecraft.patch" then click "Open"
    https://cloud.githubusercontent.com/assets/11248300/8185478/0fc80bf2-141b-11e5-8303-979211d229d6.png
    https://cloud.githubusercontent.com/assets/11248300/8185480/113333d6-141b-11e5-91a5-92a1ffacf41c.png
 
@@ -73,10 +74,11 @@
 
 ## Definitions:
 ### Look at the definitons for the second section
+### Vanilla- A completely unmodified version of Minecraft
 
 ## Steps:
 
-1. The next step is fairly descriptive. Here is the tutorial for creating a new project courtesy of Alexander01998 (The Creator of the Wurst-Client):
+1. This next step is fairly descriptive. Here is the tutorial for creating a new project courtesy of Alexander01998 (The Creator of the Wurst-Client):
   
     >* Create a clone of Wurst. This is the tricky part, so read carefully!
   
@@ -146,3 +148,6 @@ Click Play and your good to go! You have successfully added on to the Wurst-Clie
  
 :warning: ***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
+# Troubleshooting
+
+If you get � instead of the § in Eclipse or when launching, make sure your text encoding is UTF-8. If this doesn't work, go to Search->File and then put � in the "Find" field. Then click the "Replace"button and put § in the field to replace � with.
