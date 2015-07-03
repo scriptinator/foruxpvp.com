@@ -73,6 +73,7 @@
 
 ## Definitions:
 ### Look at the definitons for the second section
+### Vanilla-A completly unmodified version of Minecraft
 
 ## Steps:
 
