@@ -65,7 +65,8 @@
 5. Here is a patch tutorial courtesy of Nitrogeon-Dioxide:
    https://cloud.githubusercontent.com/assets/11248300/8185475/0e31fda2-141b-11e5-97b4-4425c5b8c90d.png
    https://cloud.githubusercontent.com/assets/11248300/8185477/0ec3f6e4-141b-11e5-91bf-f5e728546b34.png
-   For this step choose "File" for Patch and click "Browse." Then navigate to your-wurst-folder/patch. Then click      the file called "minecraft.patch" then click "Open"
+   For this step choose "File" for Patch and click "Browse." Then navigate to your-wurst-folder/patch. Then click
+the file called "minecraft.patch" then click "Open"
    https://cloud.githubusercontent.com/assets/11248300/8185478/0fc80bf2-141b-11e5-8303-979211d229d6.png
    https://cloud.githubusercontent.com/assets/11248300/8185480/113333d6-141b-11e5-91a5-92a1ffacf41c.png
 
