@@ -146,3 +146,6 @@ Click Play and your good to go! You have successfully added on to the Wurst-Clie
  
 :warning: ***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
+# Troubleshooting
+
+If you get � instead of the § in Eclipse or when launching, make sure your text encoding is UTF-8. If this doesn't work, go to Search->File and then put � in the "Find" field. Then click the "Replace"button and put § in the field to replace � with.
