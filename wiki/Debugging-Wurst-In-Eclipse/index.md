@@ -11,7 +11,7 @@
 
 ## Definitions:
 
-### Get-Download
+### Get- Download
 
 ### Eclipse- A program for developing
 
@@ -73,7 +73,7 @@
 
 ## Definitions:
 ### Look at the definitons for the second section
-### Vanilla-A completly unmodified version of Minecraft
+### Vanilla- A completely unmodified version of Minecraft
 
 ## Steps:
 
