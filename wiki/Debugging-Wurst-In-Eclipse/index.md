@@ -1,5 +1,11 @@
-***THIS IS NOT A TUTORIAL TO INSTALL WURST. This tutorial is how to debug wurst in Eclipse. This is also how to get to the stage to be able to modify Wurst. This tutorial assumes you know how to use a web browser and that you have basic computer skill. Parts of this tutorial are inherited from the Debugging Wurst in Eclipse page from the Wurst-Wiki version 2.0 and other members of the Wurst-Client community.***
+***THIS IS NOT A TUTORIAL TO INSTALL WURST. This tutorial is how to debug wurst in Eclipse. This is also how to get to the stage to be able to modify Wurst. This tutorial assumes you know how to use a web browser and that you have basic computer skills. Parts of this tutorial are inherited from the Debugging Wurst in Eclipse page from the Wurst-Wiki version 2.0 and other members of the Wurst-Client community.***
 
+# Warnings
+***DO NOT FOLLOW THIS TUTORIAL IF YOU DO NOT HAVE A SUFFICENT UNDERSTANDING OF GIT.***
+
+***DO NOT DISTRIBUTE YOUR OR ANY CUSTOM MINECRAFT JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED THE MINECRAFT CODE***
+
+***MAKE SURE YOU CREATE A LOCAL REPOSITORY, DO NOT PUSH THE VANILLA MINECRAFT CODE TO YOUR GITHUB REPO***
 
 # First Section:
 
@@ -138,5 +144,5 @@ WARNING FOR MAC: DO NOT OPEN THIS FILE IN TEXTEDIT it messes up the formatting a
 
 Click Play and your good to go! You have successfully added on to the Wurst-Client and have read through this tutorial! Give yourself a pat on the back!
  
-
+***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
