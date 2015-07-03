@@ -76,7 +76,7 @@
 
 ## Steps:
 
-1. The next step is fairly descriptive. Here is the tutorial for creating a new project courtesy of Alexander01998 (The Creator of the Wurst-Client):
+1. This next step is fairly descriptive. Here is the tutorial for creating a new project courtesy of Alexander01998 (The Creator of the Wurst-Client):
   
     >* Create a clone of Wurst. This is the tricky part, so read carefully!
   
