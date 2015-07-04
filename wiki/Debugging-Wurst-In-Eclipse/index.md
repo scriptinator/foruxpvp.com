@@ -1,3 +1,7 @@
+---
+title: How to Debug Wurst in Eclipse
+layout: wiki
+---
 ***THIS IS NOT A TUTORIAL TO INSTALL WURST. This tutorial is how to debug wurst in Eclipse. This is also how to get to the stage to be able to modify Wurst. This tutorial assumes you know how to use a web browser and that you have basic computer skills. Parts of this tutorial are inherited from the Debugging Wurst in Eclipse page from the Wurst-Wiki version 2.0 and other members of the Wurst-Client community.***
 
 # Warnings
@@ -23,15 +27,15 @@
 
 ## Steps:
 
-1. Get and Install Eclipse: https://eclipse.org/
+1. Get and Install [Eclipse](https://eclipse.org/)
 
-2. Get and Extract MCP 9.10: http://www.modcoderpack.com/website/
+2. Get and Extract [MCP 9.10](http://www.modcoderpack.com/website/)
 
 3. Download the Wurst-Client source code from Github. Click the button that says "download to computer"
 
-4. Download the Slick2D Library: http://slick.ninjacave.com/
+4. Download the [Slick2D Library](http://slick.ninjacave.com/)
 
-5. Download LWJGL 2.9.1: http://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.1/lwjgl-2.9.1.zip/download
+5. Download [LWJGL 2.9.1](http://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.1/lwjgl-2.9.1.zip/download)
 
 6. Extract these as well. We will come back to these soon
 
@@ -63,12 +67,12 @@
 4. On the Panel on your right you will see 2 items. Right Click the one that says "Client." Hover your cursor over "Team" and then click "Apply Patch." 
 
 5. Here is a patch tutorial courtesy of Nitrogeon-Dioxide:
-   https://cloud.githubusercontent.com/assets/11248300/8185475/0e31fda2-141b-11e5-97b4-4425c5b8c90d.png
-   https://cloud.githubusercontent.com/assets/11248300/8185477/0ec3f6e4-141b-11e5-91bf-f5e728546b34.png
+   ![Patch Step #1](https://cloud.githubusercontent.com/assets/11248300/8185475/0e31fda2-141b-11e5-97b4-4425c5b8c90d.png)
+   ![Patch Step #2](https://cloud.githubusercontent.com/assets/11248300/8185477/0ec3f6e4-141b-11e5-91bf-f5e728546b34.png)
    For this step choose "File" for Patch and click "Browse." Then navigate to your-wurst-folder/patch. Then click
 the file called "minecraft.patch" then click "Open"
-   https://cloud.githubusercontent.com/assets/11248300/8185478/0fc80bf2-141b-11e5-8303-979211d229d6.png
-   https://cloud.githubusercontent.com/assets/11248300/8185480/113333d6-141b-11e5-91a5-92a1ffacf41c.png
+   ![Patch Step #3](https://cloud.githubusercontent.com/assets/11248300/8185478/0fc80bf2-141b-11e5-8303-979211d229d6.png)
+   ![Patch Step #4](https://cloud.githubusercontent.com/assets/11248300/8185480/113333d6-141b-11e5-91a5-92a1ffacf41c.png)
 
 # Third Section:
 
@@ -128,6 +132,8 @@ Time to create a launch config! This part is pretty easy.
  
 >**Notice:** Contributing changes in the vanilla MC source code requires some extra steps. Read [#412](https://github.com/Wurst-Imperium/Wurst-Client/issues/412) for more information.  
 
+>**Notice:** Before contributing to Wurst, please read the [guidelines for contributing](https://github.com/Wurst-Imperium/Wurst-Client/blob/master/CONTRIBUTING.md) before submitting a [pull request](https://help.github.com/articles/creating-a-pull-request/)
+
 # Fifth Section
 
 ## Definitions:
@@ -145,9 +151,11 @@ WARNING FOR MAC: DO NOT OPEN THIS FILE IN TEXTEDIT it messes up the formatting a
 3. Restart your launcher. Edit profile and choose the version "Wurst v2"
 
 Click Play and your good to go! You have successfully added on to the Wurst-Client and have read through this tutorial! Give yourself a pat on the back!
- 
+
 :warning: ***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
 # Troubleshooting
 
 If you get � instead of the § in Eclipse or when launching, make sure your text encoding is UTF-8. If this doesn't work, go to Search->File and then put � in the "Find" field. Then click the "Replace"button and put § in the field to replace � with.
+
+If you need to install Java 8. Make sure that you use Java 8 in your Java settings in Eclipse.
