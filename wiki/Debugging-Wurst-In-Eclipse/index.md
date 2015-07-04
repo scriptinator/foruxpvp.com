@@ -27,15 +27,15 @@ layout: wiki
 
 ## Steps:
 
-1. Get and Install Eclipse: https://eclipse.org/
+1. Get and Install [Eclipse](https://eclipse.org/)
 
-2. Get and Extract MCP 9.10: http://www.modcoderpack.com/website/
+2. Get and Extract [MCP 9.10](http://www.modcoderpack.com/website/)
 
 3. Download the Wurst-Client source code from Github. Click the button that says "download to computer"
 
-4. Download the Slick2D Library: http://slick.ninjacave.com/
+4. Download the [Slick2D Library](http://slick.ninjacave.com/)
 
-5. Download LWJGL 2.9.1: http://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.1/lwjgl-2.9.1.zip/download
+5. Download [LWJGL 2.9.1](http://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.1/lwjgl-2.9.1.zip/download)
 
 6. Extract these as well. We will come back to these soon
 
