@@ -122,7 +122,7 @@ I hope you are still with me, that was a lot. The good news is that things are m
 
 Time to create a launch config! This part is pretty easy.
 
-1. On the top of Eclipse's "toolbar" you will see a green button with a "Play" sign on it. Click the little arrow right below it and select "Run Configurations".
+1. On the top of Eclipse's "toolbar" you will see a green button ![Eclipse Run Button](http://fitrunner.sourceforge.net/eclipseRunButton.png) with a "Play" sign on it. Click the little arrow right below it and select "Run Configurations".
 
 2. Click the white button that is to create a new launch configuration. Call it "Wurst". Then in the "Main types" field type "net.minecraft.client.main.Main".
 
