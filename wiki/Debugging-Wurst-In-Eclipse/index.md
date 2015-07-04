@@ -132,6 +132,8 @@ Time to create a launch config! This part is pretty easy.
  
 >**Notice:** Contributing changes in the vanilla MC source code requires some extra steps. Read [#412](https://github.com/Wurst-Imperium/Wurst-Client/issues/412) for more information.  
 
+>**Notice:** Before contributing to Wurst, please read the [guidelines for contributing](https://github.com/Wurst-Imperium/Wurst-Client/blob/master/CONTRIBUTING.md) before submitting a [pull request](https://help.github.com/articles/creating-a-pull-request/)
+
 # Fifth Section
 
 ## Definitions:
@@ -150,8 +152,6 @@ WARNING FOR MAC: DO NOT OPEN THIS FILE IN TEXTEDIT it messes up the formatting a
 
 Click Play and your good to go! You have successfully added on to the Wurst-Client and have read through this tutorial! Give yourself a pat on the back!
 
-Before contributing to Wurst, please read the [guidelines for Contributing](https://github.com/Wurst-Imperium/Wurst-Client/blob/master/CONTRIBUTING.md)before submitting a [pull request](https://help.github.com/articles/creating-a-pull-request/)
- 
 :warning: ***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
 # Troubleshooting
