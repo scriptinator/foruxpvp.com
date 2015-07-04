@@ -2,30 +2,8 @@
 title: How to Debug Wurst in Eclipse
 layout: wiki
 ---
-***THIS IS NOT A TUTORIAL TO INSTALL WURST. This tutorial is how to debug wurst in Eclipse. This is also how to get to the stage to be able to modify Wurst. This tutorial assumes you know how to use a web browser and that you have basic computer skills. Parts of this tutorial are inherited from the Debugging Wurst in Eclipse page from the Wurst-Wiki version 2.0 and other members of the Wurst-Client community.***
-
-# Warnings
-:warning: ***DO NOT FOLLOW THIS TUTORIAL IF YOU DO NOT HAVE A SUFFICENT UNDERSTANDING OF GIT.***
-
-:warning: ***DO NOT DISTRIBUTE YOUR OR ANY CUSTOM MINECRAFT JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE THE UNMODIFIED MINECRAFT CODE***
-
-:warning: ***MAKE SURE YOU CREATE A LOCAL REPOSITORY, DO NOT PUSH THE VANILLA MINECRAFT CODE TO YOUR GITHUB REPO***
 
 # First Section:
-
-## Definitions:
-
-### Get- Download
-
-### Eclipse- A program for developing
-
-### MCP- Mod Coder's Pack
-
-### Extract- Right-Click and Press the Extract Button
-
-### Run- Type the command and then press enter
-
-## Steps:
 
 1. Get and Install [Eclipse](https://eclipse.org/)
 
@@ -50,12 +28,6 @@ layout: wiki
 
 # Second Section:
 
-## Definitions:
-
-### your-mcp-folder-the folder that contains all the files extracted from MCP
-
-### your-wurst-folder-The folder in which you extracted your Wurst source code from GitHub.
-
 ## Steps:
 
 1. Open Eclipse
@@ -75,10 +47,6 @@ the file called "minecraft.patch" then click "Open"
    ![Patch Step #4](https://cloud.githubusercontent.com/assets/11248300/8185480/113333d6-141b-11e5-91a5-92a1ffacf41c.png)
 
 # Third Section:
-
-## Definitions:
-### Look at the definitons for the second section
-### Vanilla- A completely unmodified version of Minecraft
 
 ## Steps:
 
@@ -150,12 +118,5 @@ WARNING FOR MAC: DO NOT OPEN THIS FILE IN TEXTEDIT it messes up the formatting a
 
 3. Restart your launcher. Edit profile and choose the version "Wurst v2"
 
-Click Play and your good to go! You have successfully added on to the Wurst-Client and have read through this tutorial! Give yourself a pat on the back!
-
 :warning: ***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
-# Troubleshooting
-
-If you get � instead of the § in Eclipse or when launching, make sure your text encoding is UTF-8. If this doesn't work, go to Search->File and then put � in the "Find" field. Then click the "Replace"button and put § in the field to replace � with.
-
-If you need to install Java 8. Make sure that you use Java 8 in your Java settings in Eclipse.
