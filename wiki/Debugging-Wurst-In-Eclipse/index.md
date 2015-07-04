@@ -122,7 +122,7 @@ I hope you are still with me, that was a lot. The good news is that things are m
 
 Time to create a launch config! This part is pretty easy.
 
-1. On the top of Eclipse's "toolbar" you will see a green button ![Eclipse Run Button](http://fitrunner.sourceforge.net/eclipseRunButton.png) with a "Play" sign on it. Click the little arrow right below it and select "Run Configurations".
+1. On the top of Eclipse's "toolbar" you will see a green button with a "Play" sign on it. Click the little arrow right below it and select "Run Configurations".
 
 2. Click the white button that is to create a new launch configuration. Call it "Wurst". Then in the "Main types" field type "net.minecraft.client.main.Main".
 
@@ -149,6 +149,8 @@ WARNING FOR MAC: DO NOT OPEN THIS FILE IN TEXTEDIT it messes up the formatting a
 3. Restart your launcher. Edit profile and choose the version "Wurst v2"
 
 Click Play and your good to go! You have successfully added on to the Wurst-Client and have read through this tutorial! Give yourself a pat on the back!
+
+Before contributing to Wurst, please read the [guidelines for Contributing](https://github.com/Wurst-Imperium/Wurst-Client/blob/master/CONTRIBUTING.md)before submitting a [pull request](https://help.github.com/articles/creating-a-pull-request/)
  
 :warning: ***DO NOT DISTRIBUTE A CUSTOM JAR ON THE INTERNET. IT IS ILLEGAL TO DISTRIBUTE UNMODIFIED MINECRAFT CODE***
 
