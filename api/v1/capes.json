@@ -11,6 +11,8 @@ capes:
   "Marka2000": "{{ page.capes.wurst }}",
   "WiZARDHAXoCOM": "{{ page.capes.wurst }}",
   "eXire_": "{{ page.capes.wurst }}",
+  "ProBit": "{{ page.capes.wurst }}",
+  "DataPools": "{{ page.capes.wurst }}",
   
   "ZerakPvP": "{{ page.capes.wizhax2015 }}",
   "Tigrex_HD": "{{ page.capes.wizhax2015 }}",
@@ -21,5 +23,6 @@ capes:
   "Lavandiasyndrom": "{{ page.capes.wizhax2015 }}",
   "Huggan40": "{{ page.capes.wizhax2015 }}",
   "heafie": "{{ page.capes.wizhax2015 }}",
+  "sr23k": "{{ page.capes.wizhax2015 }}",
   "_37_": "{{ page.capes.wizhax2015 }}"
 }
